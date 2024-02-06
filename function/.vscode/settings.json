@@ -1,6 +1,11 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "TEST.C": "cpp"
+        "TEST.C": "cpp",
+        "iterator": "c",
+        "xmemory": "c",
+        "xutility": "c",
+        "xlocale": "c",
+        "stdio.h": "c"
     }
 }
